@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="es">
-      <body className="bg-zinc-50 text-zinc-900 antialiased min-h-screen font-sans">
+      <body className="bg-zinc-50 text-zinc-700 antialiased min-h-screen font-sans">
         <nav className="bg-white border-b border-zinc-200 sticky top-0 z-50 shadow-sm">
           <div className="max-w-6xl mx-auto px-6">
             <div className="flex justify-between h-16 items-center">
